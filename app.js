@@ -1,1 +1,4 @@
-alert("Hello Guys")
+document.querySelector("button").addEventListener('click', () => { alert("Hello guys") });
+
+
+
